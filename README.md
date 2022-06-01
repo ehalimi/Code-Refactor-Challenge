@@ -4,6 +4,4 @@ This is a challenge about refactoring a code in order to make the webpage access
 
 
 
-
-
-
+<img width="674" alt="screenshot" src="https://user-images.githubusercontent.com/105947150/171483569-c9d94ae7-7687-4291-9083-ecab9d9c2e1c.png">
